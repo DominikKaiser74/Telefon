@@ -1,4 +1,4 @@
-db_host = "10.100.160.169"
+db_host = "xxx.xxx.xxx.xxx"
 db_port = 3306
 db_user = "user"
 db_password = "password"
